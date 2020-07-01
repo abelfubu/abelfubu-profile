@@ -2,15 +2,16 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { Zoom, useScrollTrigger } from '@material-ui/core';
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(theme => ({
   root: {
     position: 'fixed',
     bottom: theme.spacing(2),
     right: theme.spacing(2),
+    zIndex: 500,
   },
 }));
 
-const ScrollTop = (props) => {
+const ScrollTop = props => {
   const { children } = props;
   const classes = useStyles();
   // Note that you normally won't need to set the window ref as useScrollTrigger
@@ -21,7 +22,7 @@ const ScrollTop = (props) => {
     threshold: 100,
   });
 
-  const handleClick = (event) => {
+  const handleClick = event => {
     const anchor = (event.target.ownerDocument || document).querySelector(
       '#top',
     );
