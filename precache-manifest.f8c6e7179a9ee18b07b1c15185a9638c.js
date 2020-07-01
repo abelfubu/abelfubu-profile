@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f965a6ce51d784d5e9c7e29ce495eae",
+    "revision": "1bb0c7ad6a2e370708091591c87a91e1",
     "url": "/abelfubu/index.html"
   },
   {
-    "revision": "9e0e26e00ce096c27dfb",
+    "revision": "ccf5976cf737778d44de",
     "url": "/abelfubu/static/css/main.55d328cb.chunk.css"
   },
   {
-    "revision": "b7c3775e64162865dc02",
-    "url": "/abelfubu/static/js/2.638f9815.chunk.js"
+    "revision": "ae5530d4d3e4487fe7b8",
+    "url": "/abelfubu/static/js/2.3a0c4161.chunk.js"
   },
   {
     "revision": "5b8b49146ea7ff4abb4f22a9d28772fe",
-    "url": "/abelfubu/static/js/2.638f9815.chunk.js.LICENSE.txt"
+    "url": "/abelfubu/static/js/2.3a0c4161.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e0e26e00ce096c27dfb",
-    "url": "/abelfubu/static/js/main.937c151f.chunk.js"
+    "revision": "ccf5976cf737778d44de",
+    "url": "/abelfubu/static/js/main.6e255eed.chunk.js"
   },
   {
     "revision": "79c52b2f7d20bdc7401e",
