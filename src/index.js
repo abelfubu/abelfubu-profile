@@ -4,12 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import MainProvider from './main-context';
-import Amarillo from './components/Amarillo';
 
 ReactDOM.render(
   <MainProvider>
     <App />
-    {/* <Amarillo /> */}
   </MainProvider>,
   document.getElementById('root'),
 );

@@ -6,7 +6,7 @@ import Skills from './Skills';
 import Platforms from './Platforms';
 const SideContent = () => {
   return (
-    <div style={{ padding: '85px 10% 0' }}>
+    <div style={{ padding: '85px 7% 0' }}>
       <Foto />
       <Divider />
       <Box my={2}>
@@ -30,6 +30,7 @@ const SideContent = () => {
         </Typography>
       </Box>
       <Platforms />
+      <Box my={6} />
     </div>
   );
 };

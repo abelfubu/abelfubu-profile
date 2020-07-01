@@ -40,6 +40,7 @@ const Hero = () => {
           <Typography variant='subtitle2'>
             Desarrollo de aplicaciones web y interfaces de usuario.
           </Typography>
+          <Box my={6} />
         </Grid>
       </Box>
       <Box clone order={{ xs: 1, md: 2 }}>

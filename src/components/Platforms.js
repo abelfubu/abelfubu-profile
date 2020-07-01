@@ -8,13 +8,12 @@ import {
   ListItemAvatar,
   Avatar,
 } from '@material-ui/core';
-import EmailIcon from '@material-ui/icons/Email';
 
 const Platforms = props => {
   return (
     <div>
       {platforms.map((item, index) => (
-        <List dense>
+        <List key={index} dense>
           <ListItem>
             <ListItemAvatar>
               <Avatar alt={item.title} src={item.image} />

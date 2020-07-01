@@ -6,10 +6,10 @@ import { Box, Typography, makeStyles } from '@material-ui/core';
 
 const useStyles = makeStyles({
   root: {
-    padding: '5%',
+    padding: '4%',
   },
   paragraph: {
-    padding: '0 5% 5%',
+    padding: '0 2% 5%',
   },
 });
 const Content = () => {

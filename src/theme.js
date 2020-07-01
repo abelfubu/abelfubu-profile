@@ -1,7 +1,5 @@
 import { createMuiTheme } from '@material-ui/core/styles';
 
-import lime from '@material-ui/core/colors/lime';
-
 export const lightTheme = createMuiTheme({
   palette: {
     primary: {

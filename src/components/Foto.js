@@ -8,8 +8,8 @@ const Foto = () => {
       <div style={{ textAlign: 'center' }}>
         <img
           style={{
-            width: '100%',
-            height: '100%',
+            width: '80%',
+            height: '80%',
             borderRadius: 500,
             margin: '22px auto 50px',
             boxShadow: '2px 2px 8px -4px rgba(0,0,0,0.75)',

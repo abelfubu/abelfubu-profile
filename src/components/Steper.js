@@ -87,10 +87,6 @@ function SwipeableTextMobileStepper() {
     setActiveStep(prevActiveStep => prevActiveStep - 1);
   };
 
-  const handleStepChange = step => {
-    setActiveStep(step);
-  };
-
   return (
     <div className={classes.root}>
       <Paper square elevation={0} className={classes.header}>

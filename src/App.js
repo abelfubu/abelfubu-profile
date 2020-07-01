@@ -15,7 +15,7 @@ function App(props) {
 
   return (
     <ThemeProvider theme={main.dark ? darkTheme : lightTheme}>
-      <div style={main.dark ? { background: 'black', color: 'white' } : null}>
+      <div style={main.dark ? { background: '#232323', color: 'white' } : null}>
         <Navbar />
         <Hero />
         <Container maxWidth='lg'>
