@@ -12,6 +12,7 @@ const Foto = () => {
             height: '100%',
             borderRadius: 500,
             margin: '22px auto 50px',
+            boxShadow: '2px 2px 8px -4px rgba(0,0,0,0.75)',
           }}
           src={FotoPerfil}
           alt='Foto de Perfil Abel'

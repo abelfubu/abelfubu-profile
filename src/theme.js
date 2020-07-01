@@ -8,7 +8,7 @@ export const lightTheme = createMuiTheme({
       main: '#f4d35e',
     },
     secondary: {
-      main: lime[200],
+      main: '#FBEF73',
     },
     type: 'light',
   },
@@ -26,9 +26,9 @@ export const darkTheme = createMuiTheme({
       main: '#f4d35e',
     },
     secondary: {
-      main: lime[200],
+      main: '#FBEF73',
     },
-    type: 'light',
+    type: 'dark',
   },
   typography: {
     fontFamily: 'Open Sans',

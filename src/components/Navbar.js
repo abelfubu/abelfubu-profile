@@ -3,17 +3,17 @@ import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
-import InputBase from '@material-ui/core/InputBase';
 import { fade, makeStyles } from '@material-ui/core/styles';
-import { useScrollTrigger, FormControlLabel, Switch } from '@material-ui/core';
-import MenuIcon from '@material-ui/icons/Menu';
+import { useScrollTrigger } from '@material-ui/core';
 import Brightness7Icon from '@material-ui/icons/Brightness7';
 import Brightness4Icon from '@material-ui/icons/Brightness4';
 import { mainContext } from '../main-context';
-
+import grey from '@material-ui/core/colors/grey';
+import Logo from '../images/Logo3.png';
 const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
+    background: grey[800],
   },
   menuButton: {
     marginRight: theme.spacing(2),
@@ -64,6 +64,9 @@ const useStyles = makeStyles(theme => ({
       },
     },
   },
+  logo: {
+    width: 100,
+  },
 }));
 
 export default function SearchAppBar(props) {
@@ -97,6 +100,7 @@ export default function SearchAppBar(props) {
             aria-label='open drawer'>
             <MenuIcon />
           </IconButton> */}
+          <img className={classes.logo} src={Logo} alt='Logo' />
           <Typography
             className={classes.title}
             variant='h6'
