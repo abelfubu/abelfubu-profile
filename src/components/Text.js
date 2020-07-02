@@ -10,7 +10,7 @@ const Text = props => {
           width: '70%',
           background: '#f4d35e',
           height: '8px',
-          top: 60,
+          top: 80,
           //   marginTop: '50px',
           borderRadius: 20,
           zIndex: 20,
@@ -22,11 +22,11 @@ const Text = props => {
           x='5'
           y='1'
           textAnchor='middle'
-          fontSize='1'
-          fill='#828282'
-          strokeWidth='.015'
+          fontSize='0.7'
+          fill='none'
+          strokeWidth='.005'
           stroke='#8d99ae'
-          fontFamily='Shadows Into Light Two'>
+          fontFamily='Open Sans'>
           {props.children}
         </text>
       </svg>

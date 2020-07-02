@@ -15,6 +15,9 @@ export const lightTheme = createMuiTheme({
     h1: {
       fontWeight: 800,
     },
+    body1: {
+      fontWeight: 300,
+    },
   },
 });
 
@@ -30,8 +33,12 @@ export const darkTheme = createMuiTheme({
   },
   typography: {
     fontFamily: 'Open Sans',
+
     h1: {
       fontWeight: 800,
+    },
+    body1: {
+      fontWeight: 300,
     },
   },
 });

@@ -9,7 +9,8 @@ const useStyles = makeStyles({
     marginTop: '10%',
   },
   logo: {
-    width: 400,
+    width: 500,
+    maxWidth: '85%',
   },
   grid: {
     padding: '0 5%',
@@ -22,6 +23,8 @@ const useStyles = makeStyles({
   },
   background: {
     background: '#f4f4f4',
+    backgroundImage:
+      'url("https://www.transparenttextures.com/patterns/diagmonds-light.png")',
   },
 });
 
