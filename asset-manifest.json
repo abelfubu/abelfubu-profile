@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/abelfubu/static/css/main.55d328cb.chunk.css",
-    "main.js": "/abelfubu/static/js/main.9dff1962.chunk.js",
-    "main.js.map": "/abelfubu/static/js/main.9dff1962.chunk.js.map",
+    "main.js": "/abelfubu/static/js/main.fdbc3026.chunk.js",
+    "main.js.map": "/abelfubu/static/js/main.fdbc3026.chunk.js.map",
     "runtime-main.js": "/abelfubu/static/js/runtime-main.593ea211.js",
     "runtime-main.js.map": "/abelfubu/static/js/runtime-main.593ea211.js.map",
     "static/js/2.3a0c4161.chunk.js": "/abelfubu/static/js/2.3a0c4161.chunk.js",
     "static/js/2.3a0c4161.chunk.js.map": "/abelfubu/static/js/2.3a0c4161.chunk.js.map",
     "index.html": "/abelfubu/index.html",
-    "precache-manifest.561fa59b67a7cfdf58d017160bce9e38.js": "/abelfubu/precache-manifest.561fa59b67a7cfdf58d017160bce9e38.js",
+    "precache-manifest.b5237c93df1178a19b5020eae99c5e49.js": "/abelfubu/precache-manifest.b5237c93df1178a19b5020eae99c5e49.js",
     "service-worker.js": "/abelfubu/service-worker.js",
     "static/css/main.55d328cb.chunk.css.map": "/abelfubu/static/css/main.55d328cb.chunk.css.map",
     "static/js/2.3a0c4161.chunk.js.LICENSE.txt": "/abelfubu/static/js/2.3a0c4161.chunk.js.LICENSE.txt",
     "static/media/HeroSection.png": "/abelfubu/static/media/HeroSection.481c6e49.png",
     "static/media/Logo3.png": "/abelfubu/static/media/Logo3.da108607.png",
-    "static/media/Montse.png": "/abelfubu/static/media/Montse.d94bd9f3.png",
-    "static/media/Nums.png": "/abelfubu/static/media/Nums.bd71aac0.png",
+    "static/media/Montse.png": "/abelfubu/static/media/Montse.df3ffca4.png",
+    "static/media/Nums.png": "/abelfubu/static/media/Nums.01218d64.png",
     "static/media/PerfilSm.jpeg": "/abelfubu/static/media/PerfilSm.a746f0b5.jpeg",
-    "static/media/clinica.png": "/abelfubu/static/media/clinica.5e9f9e9a.png",
+    "static/media/clinica.png": "/abelfubu/static/media/clinica.d1f9f4c3.png",
     "static/media/code.png": "/abelfubu/static/media/code.340d4dde.png",
-    "static/media/objetivos.png": "/abelfubu/static/media/objetivos.bdbbdd51.png",
-    "static/media/prana.png": "/abelfubu/static/media/prana.cf784a05.png"
+    "static/media/objetivos.png": "/abelfubu/static/media/objetivos.ca851843.png",
+    "static/media/prana.png": "/abelfubu/static/media/prana.75dae17d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.593ea211.js",
     "static/js/2.3a0c4161.chunk.js",
     "static/css/main.55d328cb.chunk.css",
-    "static/js/main.9dff1962.chunk.js"
+    "static/js/main.fdbc3026.chunk.js"
   ]
 }
