@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/abelfubu/static/css/main.55d328cb.chunk.css",
-    "main.js": "/abelfubu/static/js/main.fdbc3026.chunk.js",
-    "main.js.map": "/abelfubu/static/js/main.fdbc3026.chunk.js.map",
+    "main.js": "/abelfubu/static/js/main.7e9b79ef.chunk.js",
+    "main.js.map": "/abelfubu/static/js/main.7e9b79ef.chunk.js.map",
     "runtime-main.js": "/abelfubu/static/js/runtime-main.593ea211.js",
     "runtime-main.js.map": "/abelfubu/static/js/runtime-main.593ea211.js.map",
     "static/js/2.3a0c4161.chunk.js": "/abelfubu/static/js/2.3a0c4161.chunk.js",
     "static/js/2.3a0c4161.chunk.js.map": "/abelfubu/static/js/2.3a0c4161.chunk.js.map",
     "index.html": "/abelfubu/index.html",
-    "precache-manifest.b5237c93df1178a19b5020eae99c5e49.js": "/abelfubu/precache-manifest.b5237c93df1178a19b5020eae99c5e49.js",
+    "precache-manifest.7cac5e10e398b36e1623e14a8e7aaa70.js": "/abelfubu/precache-manifest.7cac5e10e398b36e1623e14a8e7aaa70.js",
     "service-worker.js": "/abelfubu/service-worker.js",
     "static/css/main.55d328cb.chunk.css.map": "/abelfubu/static/css/main.55d328cb.chunk.css.map",
     "static/js/2.3a0c4161.chunk.js.LICENSE.txt": "/abelfubu/static/js/2.3a0c4161.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.593ea211.js",
     "static/js/2.3a0c4161.chunk.js",
     "static/css/main.55d328cb.chunk.css",
-    "static/js/main.fdbc3026.chunk.js"
+    "static/js/main.7e9b79ef.chunk.js"
   ]
 }

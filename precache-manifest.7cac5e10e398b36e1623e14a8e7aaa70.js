@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c6bbedcf788fd539bc37007fa41b0cc",
+    "revision": "23a0751adc9084878b6afd23f8ac5767",
     "url": "/abelfubu/index.html"
   },
   {
-    "revision": "90a653ed3655b8ef992e",
+    "revision": "e86c15b0387175237e75",
     "url": "/abelfubu/static/css/main.55d328cb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abelfubu/static/js/2.3a0c4161.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90a653ed3655b8ef992e",
-    "url": "/abelfubu/static/js/main.fdbc3026.chunk.js"
+    "revision": "e86c15b0387175237e75",
+    "url": "/abelfubu/static/js/main.7e9b79ef.chunk.js"
   },
   {
     "revision": "79c52b2f7d20bdc7401e",
