@@ -38,7 +38,7 @@ const useStyles = makeStyles({
   },
 });
 
-const Footer = props => {
+const Footer = (props) => {
   const classes = useStyles();
   const main = useContext(mainContext);
 
@@ -99,10 +99,10 @@ const Footer = props => {
                     </ListItem>
                     <ListItem button>
                       <Link
-                        href='https://abelfubu.github.io/obj-/'
+                        href='https://abelfubu.github.io/shop/'
                         target='_blank'
                         rel='noreferrer'>
-                        <ListItemText primary='Objetivos - Obj++ ' />
+                        <ListItemText primary='E-commerce - Shop' />
                       </Link>
                     </ListItem>
                     <ListItem button>
