@@ -1,7 +1,7 @@
 {
   "name": "imp-dates",
   "version": "0.1.0",
-  "homepage": "https://abelfubu.github.io/abelfubu",
+  "homepage": "https://abelfubu.github.io/abelfubu-profile",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.10.2",
